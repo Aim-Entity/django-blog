@@ -1,1 +1,1 @@
-web: gunicorn echodrops.wsgi
+web: gunicorn djangolearning.wsgi
